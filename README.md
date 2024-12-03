@@ -2,9 +2,9 @@
 
 ## Members Name and Contribution
 
-1.pranjal Jaiswal KU2407U166
+1. Pranjal Jaiswal KU2407U166
 
-2.Prayasha parmar KU2407U169
+2. Prayasha parmar KU2407U169
 
 3. Rudransh Bhavsar KU2407U188
 
