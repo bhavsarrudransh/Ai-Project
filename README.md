@@ -73,4 +73,15 @@ Sales Spikes: Days where revenue increased significantly, possibly due to succes
 Revenue Dips: Days with low sales, potentially indicating factors like external market conditions or ineffective campaigns.
 This trend helps track overall business performance over time, identify key events, and assess the impact of specific initiatives. 
 
+## Challenges Faced
+
+1. Data Quality Issues
+
+2. Data Aggregation Challenges
+
+3. Large Datasets
+
+4. Visualizing Large Amounts of Data
+
+
 
