@@ -1,3 +1,16 @@
+# Retail Sales Insights
+
+## Members Name and Contribution
+
+1.pranjal Jaiswal KU2407U166
+
+2.Prayasha parmar KU2407U169
+
+3. Rudransh Bhavsar KU2407U188
+
+4. Shrey Saraiya KU2407U204
+
+
 ## Objectives of the Project
 ### 1. Understand Seasonal Patterns
 
