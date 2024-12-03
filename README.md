@@ -23,3 +23,32 @@ Understand customer demographics (e.g., gender and age) driving sales.
 
 Recognize purchasing habits and align offerings with customer needs.
 
+## Tools and Library
+
+1.Pandas
+
+2.malplotylib
+
+3.Python script
+
+4.Google Colab
+
+## Data Source
+
+Kaggle.
+
+## Execution Steps
+
+1. Setup and Import Libraries
+
+2. Load and Preprocess Data
+
+3. Data Aggregation for Analysis
+
+4. Data Visualization
+
+5. ## Summary
+
+6. 
+
+
